@@ -5,7 +5,7 @@ This is a repo where you have access to all the Jupiter Notebooks, along with so
 
 ## Table of Contents
 * [Quantum Teleportation?](#Quantum-Teleportation?)
-* [Diabetic Retinopathy](#Diabetic Retinopathy)
+* [Diabetic Retinopathy](#Diabetic-Retinopathy)
 * [Acknowledgements](#Acknowledgements)
 * [Connect with me](#Connect-with-me)
 
