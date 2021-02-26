@@ -45,25 +45,13 @@ How the Circuit Works
 - Depending on the outputs of Qubit 1 and 2, we rotate Qubit 3
 - Success! The qubit is successfully teleported!
 
-Alright! We just performed quantum teleportation. Now the reason why it's teleported at step 5 is that Qubit 2 and 3 are entangled. But if that answer isn't satisfactory enough, let's get into the math!
-
-
-
+Alright! We just performed quantum teleportation. Now the reason why it's teleported at step 5 is that Qubit 2 and 3 are entangled. But if that answer isn't satisfactory enough, you can go into the mathematical proof and intuition in [my article](https://dickson-wu.medium.com/beam-me-up-scotty-2de01834be0c)! 
 
 ## Acknowledgements
 
-* [Understanding LSTM Networks by Christopher Olah - A wonderful guide to LSTMs](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
-* [Reserach Paper that details the history, evolution and math of LSTMs](https://arxiv.org/pdf/1909.09586.pdf)
-* [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
-* [The Dataset I used](https://www.kaggle.com/shahir/protein-data-set/notebooks)
-* [Resource that helped me code](https://towardsdatascience.com/lstm-text-classification-using-pytorch-2c6c657f8fc0)
-* [Resource that helped me code](https://www.analyticsvidhya.com/blog/2020/01/first-text-classification-in-pytorch/)
-* [Resource that helped me code](https://huggingface.co/Rostlab/prot_bert)
-* [Resource that explains the importance](https://arxiv.org/ftp/arxiv/papers/1701/1701.08318.pdf)
-* [Resource that explains the importance](https://www.nature.com/articles/nrm2281)
-* [Resource that explains the importance](https://www.newscientist.com/article/2194516-we-dont-know-what-a-fifth-of-our-genes-do-and-wont-find-out-soon/)
-* [Resource that explains the importance](https://news.mit.edu/2019/machine-learning-amino-acids-protein-function-0322)
-* [Resource that explains the importance](https://www.frontiersin.org/articles/10.3389/fbioe.2020.00391/full)
+* [Resource to help me Code](https://qiskit.org/textbook/ch-algorithms/teleportation.html)
+* [Excellent Essay Explaining Quantum Teleportation](https://quantum.country/teleportation)
+* [Paper on it's Applications](https://iopscience.iop.org/article/10.1088/1742-6596/1634/1/012089/pdf)
 
 ## Connect with me
 
