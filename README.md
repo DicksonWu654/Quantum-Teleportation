@@ -45,7 +45,7 @@ How the Circuit Works
 - Depending on the outputs of Qubit 1 and 2, we rotate Qubit 3
 - Success! The qubit is successfully teleported!
 
-Alright! We just performed quantum teleportation. Now the reason why it's teleported at step 5 is that Qubit 2 and 3 are entangled. But if that answer isn't satisfactory enough, you can go into the mathematical proof and intuition in [my article](https://dickson-wu.medium.com/beam-me-up-scotty-2de01834be0c)! 
+Alright! We just performed quantum teleportation. Now the reason why it's teleported at step 5 is that Qubit 2 and 3 are entangled. But if that answer isn't satisfactory enough, you can go into the mathematical proof and intuition in [my article](https://dickson-wu.medium.com/beam-me-up-scotty-2de01834be0c)! Also check out my [Video!](https://youtu.be/Rffi7-7zjLc)
 
 ## Acknowledgements
 
